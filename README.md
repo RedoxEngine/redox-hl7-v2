@@ -1,5 +1,5 @@
 # node-hl7-v2
-[Redox's](https://www.redoxengine.com) in-house HL7v2 parser/generator
+This is [Redox's](http://bit.ly/2Pw4aha) battle-tested in-house HL7v2 parser/generator. 
 
 # HL7 Version 2 (HL7v2) 
 [HL7’s Version 2.x (V2) Messaging Standard](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) 
