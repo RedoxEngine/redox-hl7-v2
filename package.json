@@ -1,0 +1,43 @@
+{
+  "name": "@redoxengine/redox-hl7-v2",
+  "version": "1.0.0",
+  "description": "A parser for hl7 version 2 messages. Creates json from v2 messages, and creates v2 messages from json.",
+  "main": "index.js",
+  "directories": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "dependencies": {
+    "async": "^1.2.1",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "codecov.io": "^0.1.4",
+    "istanbul": "^0.3.15",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.3",
+    "sinon-chai": "^2.8.0"
+  },
+  "scripts": {
+    "test": "node_modules/istanbul/lib/cli.js cover _mocha -- test/unit/ -R spec && mocha test/integration -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedoxEngine/redox-hl7-v2"
+  },
+  "keywords": [
+    "hl7",
+    "version",
+    "2",
+    "parser",
+    "generator",
+    "parse",
+    "generate"
+  ],
+  "author": "Redox, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedoxEngine/redox-hl7-v2/issues"
+  },
+  "homepage": "https://github.com/RedoxEngine/redox-hl7-v2"
+}

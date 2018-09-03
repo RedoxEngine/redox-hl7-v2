@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "DDI.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "DDI.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "DDI.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

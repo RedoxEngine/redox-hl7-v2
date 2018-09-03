@@ -1,0 +1,5 @@
+{
+	"dataType": "ID",
+	"longName": "Transportation Mode",
+	"hl7Table": "HL70124"
+}

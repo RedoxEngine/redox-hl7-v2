@@ -1,0 +1,264 @@
+{
+  "fields": [
+    {
+      "field": "PV1.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.7",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.8",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.9",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.11",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.13",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.15",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.16",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.17",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.18",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.19",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.20",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.21",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.22",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.23",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.24",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.25",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.26",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.27",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.28",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.29",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.30",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.31",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.32",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.33",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.34",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.35",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.36",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.37",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.38",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.39",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.40",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.41",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.42",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.43",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.44",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.45",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "PV1.46",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.47",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.48",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.49",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.50",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.51",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "PV1.52",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

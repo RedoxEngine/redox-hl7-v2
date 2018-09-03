@@ -1,0 +1,31 @@
+{
+  "SPQ_Q08": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "SPR"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "RDF"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "DSC"
+      }
+    ]
+  }
+}

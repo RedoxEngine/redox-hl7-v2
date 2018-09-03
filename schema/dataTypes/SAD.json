@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "SAD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "SAD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "SAD.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

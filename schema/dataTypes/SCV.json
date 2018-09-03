@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "SCV.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "SCV.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "dataType": "CD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CD.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CD.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CD.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CD.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

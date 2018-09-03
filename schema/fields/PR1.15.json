@@ -1,0 +1,5 @@
+{
+	"dataType": "CE",
+	"longName": "Associated Diagnosis Code",
+	"hl7Table": "HL70051"
+}

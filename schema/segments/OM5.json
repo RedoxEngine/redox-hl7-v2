@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "OM5.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OM5.2",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OM5.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

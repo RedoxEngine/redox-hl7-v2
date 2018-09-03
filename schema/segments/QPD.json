@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "QPD.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QPD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QPD.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

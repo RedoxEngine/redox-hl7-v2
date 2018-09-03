@@ -1,0 +1,5 @@
+{
+	"dataType": "IS",
+	"longName": "Condition Code (24-30)",
+	"hl7Table": "HL70043"
+}

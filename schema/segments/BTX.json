@@ -1,0 +1,99 @@
+{
+  "fields": [
+    {
+      "field": "BTX.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.7",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.8",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.11",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.12",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.13",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.15",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.16",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.17",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BTX.18",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "BTX.19",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

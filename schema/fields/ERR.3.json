@@ -1,0 +1,5 @@
+{
+	"dataType": "CWE",
+	"longName": "HL7 Error Code",
+	"hl7Table": "HL70357"
+}

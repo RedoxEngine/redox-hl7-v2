@@ -1,0 +1,45 @@
+{
+  "SPECIMEN_CONTAINER": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "SAC"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SPM"
+      }
+    ]
+  },
+  "SSR_U04": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "EQU"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "SPECIMEN_CONTAINER"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "ROL"
+      }
+    ]
+  }
+}

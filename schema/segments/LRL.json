@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "field": "LRL.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LRL.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LRL.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LRL.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LRL.5",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "LRL.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "SPECIMEN_CONTAINER": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "SAC"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SPM"
+      }
+    ]
+  },
+  "COMMAND": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "ECD"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "TQ1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "SPECIMEN_CONTAINER"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "CNS"
+      }
+    ]
+  },
+  "EAC_U07": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "EQU"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "COMMAND"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "ROL"
+      }
+    ]
+  }
+}

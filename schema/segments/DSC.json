@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "field": "DSC.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "DSC.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "fields": [
+    {
+      "field": "BPO.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.3",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "BPO.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.7",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.11",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BPO.13",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "BPO.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

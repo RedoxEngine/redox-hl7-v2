@@ -1,0 +1,265 @@
+{
+  "VISIT": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "PV1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "PV2"
+      }
+    ]
+  },
+  "ALLERGY": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "segment": "AL1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "VISIT"
+      }
+    ]
+  },
+  "PATIENT": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "PID"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "PD1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "NTE"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "ALLERGY"
+      }
+    ]
+  },
+  "TIMING": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "TQ1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "TQ2"
+      }
+    ]
+  },
+  "COMPONENT": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "segment": "RXC"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "NTE"
+      }
+    ]
+  },
+  "ORDER_DETAIL": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "RXO"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "NTE"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "segment": "RXR"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "COMPONENT"
+      }
+    ]
+  },
+  "TIMING_ENCODED": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "TQ1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "TQ2"
+      }
+    ]
+  },
+  "ORDER_ENCODED": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "RXE"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "group": "TIMING_ENCODED"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "segment": "RXR"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "RXC"
+      }
+    ]
+  },
+  "OBSERVATION": {
+    "elements": [
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "OBX"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "NTE"
+      }
+    ]
+  },
+  "COMMON_ORDER": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "ORC"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "group": "TIMING"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "ORDER_DETAIL"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "ORDER_ENCODED"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "RXD"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "segment": "RXR"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "RXC"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "OBSERVATION"
+      }
+    ]
+  },
+  "QUERY_RESPONSE": {
+    "elements": [
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "PATIENT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "COMMON_ORDER"
+      }
+    ]
+  },
+  "RSP_Z88": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSA"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "segment": "ERR"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "QAK"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "QPD"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "RCP"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "QUERY_RESPONSE"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "DSC"
+      }
+    ]
+  }
+}

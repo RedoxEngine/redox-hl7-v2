@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "OCD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "OCD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

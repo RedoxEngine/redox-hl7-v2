@@ -1,0 +1,129 @@
+{
+  "fields": [
+    {
+      "field": "ARQ.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.7",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.11",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ARQ.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.13",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.15",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ARQ.16",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ARQ.17",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ARQ.18",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.19",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ARQ.20",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ARQ.21",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.22",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.23",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ARQ.24",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ARQ.25",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

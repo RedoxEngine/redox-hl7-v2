@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "LCH.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LCH.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LCH.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LCH.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LCH.5",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    }
+  ]
+}

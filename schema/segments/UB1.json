@@ -1,0 +1,119 @@
+{
+  "fields": [
+    {
+      "field": "UB1.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.7",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "UB1.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.10",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "UB1.11",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.13",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.15",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.16",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "UB1.17",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.18",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.19",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.20",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.21",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.22",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "UB1.23",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

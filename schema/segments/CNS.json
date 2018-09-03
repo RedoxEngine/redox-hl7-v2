@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "field": "CNS.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CNS.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CNS.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CNS.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CNS.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CNS.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

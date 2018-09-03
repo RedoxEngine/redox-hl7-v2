@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "dataType": "SN.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "SN.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "SN.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "SN.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

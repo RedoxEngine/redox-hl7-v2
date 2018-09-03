@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "field": "RQD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.7",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RQD.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "fields": [
+    {
+      "field": "GT1.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.2",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.3",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.4",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.5",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.6",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.7",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.11",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.13",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.15",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.16",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.17",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.18",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.19",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.20",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.21",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.22",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.23",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.24",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.25",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.26",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.27",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.28",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.29",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.30",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.31",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.32",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.33",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.34",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.35",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.36",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.37",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.38",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.39",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.40",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.41",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.42",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.43",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.44",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.45",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.46",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.47",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.48",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.49",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.50",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.51",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.52",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.53",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.54",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.55",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GT1.56",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GT1.57",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

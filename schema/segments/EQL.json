@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "EQL.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "EQL.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "EQL.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "EQL.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    }
+  ]
+}

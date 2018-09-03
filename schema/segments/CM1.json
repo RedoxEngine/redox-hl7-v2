@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "CM1.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CM1.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CM1.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    }
+  ]
+}

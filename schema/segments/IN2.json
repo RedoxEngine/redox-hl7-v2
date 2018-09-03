@@ -1,0 +1,364 @@
+{
+  "fields": [
+    {
+      "field": "IN2.1",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.3",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.5",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.7",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.9",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.11",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.13",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.15",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.16",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.17",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.18",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.19",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.20",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.21",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.22",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.23",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.24",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.25",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.26",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.27",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.28",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.29",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.30",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.31",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.32",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.33",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.34",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.35",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.36",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.37",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.38",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.39",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.40",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.41",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.42",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.43",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.44",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.45",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.46",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.47",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.48",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.49",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.50",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.51",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.52",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.53",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.54",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.55",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.56",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.57",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.58",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.59",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.60",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.61",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.62",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.63",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.64",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.65",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.66",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.67",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.68",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "IN2.69",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.70",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.71",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "IN2.72",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

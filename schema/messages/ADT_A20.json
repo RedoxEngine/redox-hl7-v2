@@ -1,0 +1,26 @@
+{
+  "ADT_A20": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "EVN"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "NPU"
+      }
+    ]
+  }
+}

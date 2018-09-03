@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "MSG.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "MSG.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "MSG.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

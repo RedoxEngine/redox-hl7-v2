@@ -1,0 +1,39 @@
+{
+  "MF_SITE_DEFINED": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MFE"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1"
+      }
+    ]
+  },
+  "MFN_Znn": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MFI"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "MF_SITE_DEFINED"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "field": "QAK.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QAK.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QAK.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QAK.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QAK.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QAK.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

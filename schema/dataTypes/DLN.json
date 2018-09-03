@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "DLN.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "DLN.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "DLN.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

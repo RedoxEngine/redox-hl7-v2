@@ -1,0 +1,5 @@
+{
+	"dataType": "CNE",
+	"longName": "Patient Chargeable Indicator",
+	"hl7Table": "HL70532"
+}

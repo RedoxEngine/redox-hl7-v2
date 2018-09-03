@@ -1,0 +1,134 @@
+{
+  "fields": [
+    {
+      "field": "RXA.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.5",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.6",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.7",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.9",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXA.10",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXA.11",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.13",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.15",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXA.16",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXA.17",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXA.18",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXA.19",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXA.20",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.21",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.22",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.23",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.24",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.25",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXA.26",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

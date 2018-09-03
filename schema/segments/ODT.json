@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "ODT.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ODT.2",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "ODT.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

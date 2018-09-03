@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "CSP.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CSP.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CSP.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CSP.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

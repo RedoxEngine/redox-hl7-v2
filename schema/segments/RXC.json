@@ -1,0 +1,49 @@
+{
+  "fields": [
+    {
+      "field": "RXC.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXC.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXC.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXC.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXC.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXC.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXC.7",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "RXC.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RXC.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

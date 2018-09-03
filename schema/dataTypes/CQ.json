@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "CQ.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CQ.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

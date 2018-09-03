@@ -1,0 +1,54 @@
+{
+  "fields": [
+    {
+      "field": "QRF.1",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "QRF.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QRF.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QRF.4",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "QRF.5",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "QRF.6",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "QRF.7",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "QRF.8",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "QRF.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QRF.10",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+	"dataType": "CWE",
+	"longName": "Advanced Beneficiary Notice Override Reason",
+	"hl7Table": "HL70552"
+}

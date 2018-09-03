@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "CM2.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CM2.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CM2.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "CM2.4",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "RGS.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RGS.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RGS.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

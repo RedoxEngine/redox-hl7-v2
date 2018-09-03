@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "BLG.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BLG.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BLG.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "BLG.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

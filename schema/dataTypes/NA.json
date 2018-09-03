@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "dataType": "NA.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "NA.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "NA.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "NA.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "SID.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SID.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SID.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SID.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

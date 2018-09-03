@@ -1,0 +1,587 @@
+{
+  "ACK": {
+    "ACK": "ACK"
+  },
+  "ADT": {
+    "A01": "ADT_A01",
+    "A02": "ADT_A02",
+    "A03": "ADT_A03",
+    "A04": "ADT_A01",
+    "A05": "ADT_A05",
+    "A06": "ADT_A06",
+    "A07": "ADT_A06",
+    "A08": "ADT_A01",
+    "A09": "ADT_A09",
+    "A10": "ADT_A09",
+    "A11": "ADT_A09",
+    "A12": "ADT_A12",
+    "A13": "ADT_A01",
+    "A14": "ADT_A05",
+    "A15": "ADT_A15",
+    "A16": "ADT_A16",
+    "A17": "ADT_A17",
+    "A18": "ADT_A18",
+    "A20": "ADT_A20",
+    "A21": "ADT_A21",
+    "A22": "ADT_A21",
+    "A23": "ADT_A21",
+    "A24": "ADT_A24",
+    "A25": "ADT_A21",
+    "A26": "ADT_A21",
+    "A27": "ADT_A21",
+    "A28": "ADT_A05",
+    "A29": "ADT_A21",
+    "A30": "ADT_A30",
+    "A31": "ADT_A05",
+    "A32": "ADT_A21",
+    "A33": "ADT_A21",
+    "A34": "ADT_A30",
+    "A35": "ADT_A30",
+    "A36": "ADT_A30",
+    "A37": "ADT_A37",
+    "A38": "ADT_A38",
+    "A39": "ADT_A39",
+    "A40": "ADT_A39",
+    "A41": "ADT_A39",
+    "A42": "ADT_A39",
+    "A43": "ADT_A43",
+    "A44": "ADT_A43",
+    "A45": "ADT_A45",
+    "A46": "ADT_A30",
+    "A47": "ADT_A30",
+    "A48": "ADT_A30",
+    "A49": "ADT_A30",
+    "A50": "ADT_A50",
+    "A51": "ADT_A50",
+    "A52": "ADT_A52",
+    "A53": "ADT_A52",
+    "A54": "ADT_A54",
+    "A55": "ADT_A52",
+    "A60": "ADT_A60",
+    "A61": "ADT_A61",
+    "A62": "ADT_A61"
+  },
+  "ADR": {
+    "A19": "ADR_A19"
+  },
+  "PMU": {
+    "B01": "PMU_B01",
+    "B02": "PMU_B01",
+    "B03": "PMU_B03",
+    "B04": "PMU_B04",
+    "B05": "PMU_B04",
+    "B06": "PMU_B04",
+    "B07": "PMU_B07",
+    "B08": "PMU_B08"
+  },
+  "CRM": {
+    "C01": "CRM_C01",
+    "C02": "CRM_C01",
+    "C03": "CRM_C01",
+    "C04": "CRM_C01",
+    "C05": "CRM_C01",
+    "C06": "CRM_C01",
+    "C07": "CRM_C01",
+    "C08": "CRM_C01"
+  },
+  "CSU": {
+    "C09": "CSU_C09",
+    "C10": "CSU_C09",
+    "C11": "CSU_C09",
+    "C12": "CSU_C09"
+  },
+  "RPI": {
+    "I01": "RPI_I01",
+    "I04": "RPI_I04"
+  },
+  "RQI": {
+    "I01": "RQI_I01",
+    "I02": "RQI_I01",
+    "I03": "RQI_I01",
+    "I07": "RQI_I01"
+  },
+  "RPL": {
+    "I02": "RPL_I02"
+  },
+  "RPR": {
+    "I03": "RPR_I03"
+  },
+  "RQP": {
+    "I04": "RQP_I04"
+  },
+  "RCI": {
+    "I05": "RCI_I05"
+  },
+  "RQC": {
+    "I05": "RQC_I05",
+    "I06": "RQC_I05"
+  },
+  "RCL": {
+    "I06": "RCL_I06"
+  },
+  "RPA": {
+    "I08": "RPA_I08",
+    "I09": "RPA_I08",
+    "I10": "RPA_I08",
+    "I11": "RPA_I08"
+  },
+  "RQA": {
+    "I08": "RQA_I08",
+    "I09": "RQA_I08",
+    "I10": "RQA_I08",
+    "I11": "RQA_I08"
+  },
+  "REF": {
+    "I12": "REF_I12",
+    "I13": "REF_I12",
+    "I14": "REF_I12",
+    "I15": "REF_I12"
+  },
+  "RRI": {
+    "I12": "RRI_I12",
+    "I13": "RRI_I12",
+    "I14": "RRI_I12",
+    "I15": "RRI_I12"
+  },
+  "QCN": {
+    "J01": "QCN_J01",
+    "J02": "QCN_J01"
+  },
+  "RSP": {
+    "K11": "RSP_K11",
+    "K21": "RSP_K21",
+    "K22": "RSP_K22",
+    "K23": "RSP_K23",
+    "K24": "RSP_K23",
+    "K25": "RSP_K25",
+    "K31": "RSP_K31"
+  },
+  "RTB": {
+    "K13": "RTB_K13"
+  },
+  "RDY": {
+    "K15": "RDY_K15"
+  },
+  "MFK": {
+    "M01": "MFK_M01",
+    "M02": "MFK_M01",
+    "M03": "MFK_M01",
+    "M04": "MFK_M01",
+    "M05": "MFK_M01",
+    "M06": "MFK_M01",
+    "M07": "MFK_M01",
+    "M08": "MFK_M01",
+    "M09": "MFK_M01",
+    "M10": "MFK_M01",
+    "M11": "MFK_M01"
+  },
+  "MFN": {
+    "M01": "MFN_M01",
+    "M02": "MFN_M02",
+    "M03": "MFN_M03",
+    "M04": "MFN_M04",
+    "M05": "MFN_M05",
+    "M06": "MFN_M06",
+    "M07": "MFN_M07",
+    "M08": "MFN_M08",
+    "M09": "MFN_M09",
+    "M10": "MFN_M10",
+    "M11": "MFN_M11",
+    "M12": "MFN_M12",
+    "M13": "MFN_M13",
+    "M15": "MFN_M15",
+    "M16": "MFN_M16"
+  },
+  "MFQ": {
+    "M01": "MFQ_M01",
+    "M02": "MFQ_M01",
+    "M03": "MFQ_M01",
+    "M04": "MFQ_M01",
+    "M05": "MFQ_M01",
+    "M06": "MFQ_M01"
+
+  },
+  "MFR": {
+    "M01": "MFR_M01",
+    "M02": "MFR_M01",
+    "M03": "MFR_M01",
+    "M04": "MFR_M04",
+    "M05": "MFR_M05",
+    "M06": "MFR_M06",
+    "M07": "MFR_M07"
+  },
+  "MFD": {
+    "MFA": "MFD_MFA"
+  },
+  "NMQ": {
+    "N01": "NMQ_N01"
+  },
+  "NMR": {
+    "N01": "NMR_N01",
+    "N02": "NMD_N02"
+  },
+  "ORM": {
+    "O01": "ORM_O01",
+    "O03": "OMD_O03"
+  },
+  "ORR": {
+    "O02": "ORR_O02"
+  },
+  "ORD": {
+    "O04": "ORD_O04"
+  },
+  "OMS": {
+    "O05": "OMS_O05"
+  },
+  "ORS": {
+    "O06": "ORS_O06"
+  },
+  "OMN": {
+    "O07": "OMN_O07"
+  },
+  "ORN": {
+    "O08": "ORN_O08"
+  },
+  "OMP": {
+    "O09": "OMP_O09"
+  },
+  "ORP": {
+    "O10": "ORP_O10"
+  },
+  "RDE": {
+    "O11": "RDE_O11",
+    "O25": "RDE_O11"
+  },
+  "RRE": {
+    "O12": "RRE_O12",
+    "O26": "RRE_O12"
+  },
+  "RDS": {
+    "O13": "RDS_O13"
+  },
+  "RRD": {
+    "O14": "RRD_O14"
+  },
+  "RGV": {
+    "O15": "RGV_O15"
+  },
+  "RRG": {
+    "O16": "RRG_O16"
+  },
+  "RAS":{
+    "O17": "RAS_O17"
+  },
+  "RRA": {
+    "O18": "RRA_O18"
+  },
+  "OMG": {
+    "O19": "OMG_O19"
+  },
+  "ORG": {
+    "O20": "ORG_O20"
+  },
+  "OML": {
+    "O21": "OML_O21",
+    "O33": "OML_O33",
+    "O35": "OML_O35"
+  },
+  "ORL": {
+    "O22": "ORL_O22",
+    "O34": "ORL_O34",
+    "O36": "ORL_O36"
+  },
+  "OMI": {
+    "O23": "OMI_O23"
+  },
+  "ORI": {
+    "O24": "ORI_O24"
+  },
+  "OMB": {
+    "O27": "OMB_O27"
+  },
+  "ORB": {
+    "O28": "ORB_O28"
+  },
+  "BPS": {
+    "O29": "BPS_O29"
+  },
+  "BRP": {
+    "O30": "BRP_O30"
+  },
+  "BTS": {
+    "O31": "BTS_O31"
+  },
+  "BRT": {
+    "O32": "BRT_O32"
+  },
+  "BAR": {
+    "P01": "BAR_P01",
+    "P02": "BAR_P02",
+    "P05": "BAR_P05",
+    "P06": "BAR_P06",
+    "P10": "BAR_P10",
+    "P12": "BAR_P12"
+  },
+  "DFT": {
+    "P03": "DFT_P03",
+    "P11": "DFT_P11"
+  },
+  "DSR": {
+    "P04": "DSR_P04",
+    "Q01": "DSR_Q01",
+    "Q03": "DSR_Q03"
+  },
+  "PEX": {
+    "P07": "PEX_P07",
+    "P08": "PEX_P07"
+  },
+  "SUR": {
+    "P09": "SUR_P09"
+  },
+  "PPR": {
+    "PC1": "PPR_PC1",
+    "PC2": "PPR_PC1",
+    "PC3": "PPR_PC1",
+    "PC5": "PRR_PC5"
+  },
+  "QRY": {
+    "A19": "QRY_A19",
+    "P04": "QRY_P04",
+    "PC4": "QRY_PC4",
+    "PC9": "QRY_PC4",
+    "PCE": "QRY_PC4",
+    "PCK": "QRY_PC4",
+    "Q01": "QRY_Q01",
+    "Q02": "QRY_Q02",
+    "Q26": "QRY_Q01",
+    "Q27": "QRY_Q01",
+    "Q28": "QRY_Q01",
+    "Q29": "QRY_Q01",
+    "Q30": "QRY_Q01",
+    "R02": "QRY_R02",
+    "T12": "QRY_T12"
+  },
+  "PGL": {
+    "PC6": "PGL_PC6",
+    "PC6": "PGL_PC6",
+    "PC8": "PGL_PC6"
+  },
+  "PPV": {
+    "PCA": "PPV_PCA"
+  },
+  "PPP": {
+    "PCB": "PPP_PCB",
+    "PCD": "PPP_PCB"
+  },
+  "PPG": {
+    "PCC": "PPG_PCG",
+    "PCG": "PPG_PCG",
+    "PCH": "PPG_PCG",
+    "PCJ": "PPG_PCG"
+  },
+  "PTR": {
+    "PCF": "PTR_PCF"
+  },
+  "PPT": {
+    "PCL": "PPT_PCL"
+  },
+  "QCK": {
+    "Q02": "QCK_Q02"
+  },
+  "EQQ": {
+    "Q04": "EQQ_Q04"
+  },
+  "UDM": {
+    "Q05": "UDM_Q05"
+  },
+  "OSQ": {
+    "Q06": "OSQ_Q06"
+  },
+  "OSR": {
+    "Q06": "OSR_Q06"
+  },
+  "VQQ": {
+    "Q07": "VQQ_Q07"
+  },
+  "SPQ": {
+    "Q08": "SPQ_Q08"
+  },
+  "RQQ": {
+    "Q09": "RQQ_Q09"
+  },
+  "QBP": {
+    "Q11": "QBP_Q11",
+    "Q13": "QBP_Q13",
+    "Q15": "QBP_Q15",
+    "Q21": "QBP_Q21",
+    "Q22": "QBP_Q21",
+    "Q23": "QBP_Q21",
+    "Q24": "QBP_Q21",
+    "Q25": "QBP_Q21"
+  },
+  "RSP": {
+    "Q11": "RSP_Q11"
+  },
+  "QSB": {
+    "Q16": "QSB_Q16"
+  },
+  "QVR": {
+    "Q17": "QVR_Q17"
+  },
+  "ORU": {
+    "R01": "ORU_R01",
+    "R03": "ORU_R01",
+    "R30": "ORU_R30",
+    "R31": "ORU_R30",
+    "R32": "ORU_R30",
+    "W01": "ORU_W01"
+  },
+  "ORF": {
+    "R04": "ORF_R04"
+  },
+  "EDR": {
+    "R07": "EDR_R07"
+  },
+  "TBR": {
+    "R08": "TBR_R08",
+    "R09": "TBR_R09"
+  },
+  "ERP": {
+    "R09": "ERP_R09"
+  },
+  "OUL": {
+    "R21": "OUL_R21",
+    "R22": "OUL_R22",
+    "R23": "OUL_R23",
+    "R24": "OUL_R24"
+  },
+  "RAR": {
+    "RAR": "RAR_RAR"
+  },
+  "RDR": {
+    "RDR": "RDR_RDR"
+  },
+  "RER": {
+    "RER": "RER_RER"
+  },
+  "RGR": {
+    "RGR": "RGR_RGR"
+  },
+  "ROR": {
+    "ROR": "ROR_ROR"
+  },
+  "SRM": {
+    "S01": "SRM_S01",
+    "S02": "SRM_S01",
+    "S03": "SRM_S01",
+    "S04": "SRM_S01",
+    "S05": "SRM_S01",
+    "S06": "SRM_S01",
+    "S07": "SRM_S01",
+    "S08": "SRM_S01",
+    "S09": "SRM_S01",
+    "S10": "SRM_S01",
+    "S11": "SRM_S01"
+  },
+  "SRR": {
+    "S01": "SRR_S01",
+    "S02": "SRR_S01",
+    "S03": "SRR_S01",
+    "S04": "SRR_S01",
+    "S05": "SRR_S01",
+    "S06": "SRR_S01",
+    "S07": "SRR_S01",
+    "S08": "SRR_S01",
+    "S09": "SRR_S01",
+    "S10": "SRR_S01",
+    "S11": "SRR_S01"
+  },
+  "SIU": {
+    "S12": "SIU_S12",
+    "S13": "SIU_S12",
+    "S14": "SIU_S12",
+    "S15": "SIU_S12",
+    "S16": "SIU_S12",
+    "S17": "SIU_S12",
+    "S18": "SIU_S12",
+    "S19": "SIU_S12",
+    "S20": "SIU_S12",
+    "S21": "SIU_S12",
+    "S22": "SIU_S12",
+    "S23": "SIU_S12",
+    "S24": "SIU_S12",
+    "S26": "SIU_S12"
+  },
+  "SQR": {
+    "S25": "SQR_S25"
+  },
+  "SQM": {
+    "S25": "SQM_S25"
+  },
+  "MDM": {
+    "T01": "MDM_T01",
+    "T02": "MDM_T02",
+    "T03": "MDM_T01",
+    "T04": "MDM_T02",
+    "T05": "MDM_T01",
+    "T06": "MDM_T02",
+    "T07": "MDM_T01",
+    "T08": "MDM_T02",
+    "T09": "MDM_T01",
+    "T10": "MDM_T02",
+    "T11": "MDM_T01"
+  },
+  "DOC": {
+    "T12": "DOC_T12"
+  },
+  "ESU": {
+    "U01": "ESU_U01"
+  },
+  "ESR": {
+    "U02": "ESR_U02"
+  },
+  "SSU": {
+    "U03": "SSU_U03"
+  },
+  "SSR": {
+    "U04": "SSR_U04"
+  },
+  "INU": {
+    "U05": "INU_U05"
+  },
+  "INR": {
+    "U06": "INR_U06"
+  },
+  "EAC": {
+    "U07": "EAC_U07"
+  },
+  "EAR": {
+    "U08": "EAR_U08"
+  },
+  "EAN": {
+    "U09": "EAN_U09"
+  },
+  "TCU": {
+    "U10": "TCU_U10",
+    "U11": "TCU_U10"
+  },
+  "LSU": {
+    "U12": "LSU_U12",
+    "U13": "LSU_U13"
+  },
+  "VXQ": {
+    "V01": "VXQ_V01"
+  },
+  "VXX": {
+    "V02": "VXX_V02"
+  },
+  "VXR": {
+    "V03": "VXR_V03"
+  },
+  "VXU": {
+    "V04": "VXU_V04"
+  },
+  "QRF": {
+    "W02": "QRF_W02"
+  }
+}

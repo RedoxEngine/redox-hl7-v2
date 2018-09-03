@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "DSP.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "DSP.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "DSP.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "DSP.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "DSP.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "PRL.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "PRL.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "PRL.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

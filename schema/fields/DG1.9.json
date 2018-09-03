@@ -1,0 +1,5 @@
+{
+	"dataType": "ID",
+	"longName": "DRG Approval Indicator",
+	"hl7Table": "HL70136"
+}

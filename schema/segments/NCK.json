@@ -1,0 +1,9 @@
+{
+  "fields": [
+    {
+      "field": "NCK.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    }
+  ]
+}

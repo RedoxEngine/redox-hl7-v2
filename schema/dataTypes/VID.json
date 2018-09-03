@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "VID.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "VID.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "VID.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

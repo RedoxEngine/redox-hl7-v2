@@ -1,0 +1,254 @@
+{
+  "fields": [
+    {
+      "field": "OBR.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.7",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.8",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.9",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.10",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.11",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.12",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.13",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.14",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.15",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.16",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.17",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.18",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.19",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.20",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.21",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.22",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.23",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.24",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.25",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.26",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.27",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.28",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.29",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.30",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.31",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.32",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.33",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.34",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.35",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.36",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.37",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.38",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.39",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.40",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.41",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.42",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.43",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.44",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.45",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.46",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.47",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "OBR.48",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.49",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OBR.50",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "RCD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "RCD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "RCD.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

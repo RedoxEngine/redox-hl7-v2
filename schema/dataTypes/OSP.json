@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "OSP.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "OSP.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "OSP.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "LAN.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LAN.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LAN.3",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "LAN.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

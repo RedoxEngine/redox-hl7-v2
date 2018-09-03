@@ -1,0 +1,5 @@
+{
+	"dataType": "ID",
+	"longName": "Order Status",
+	"hl7Table": "HL70038"
+}

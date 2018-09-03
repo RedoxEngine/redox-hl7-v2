@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "field": "OM6.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OM6.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

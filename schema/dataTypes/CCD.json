@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "CCD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CCD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

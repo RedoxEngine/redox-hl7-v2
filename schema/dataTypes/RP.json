@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "dataType": "RP.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "RP.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "RP.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "RP.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

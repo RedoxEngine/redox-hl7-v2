@@ -1,0 +1,5 @@
+{
+	"dataType": "CE",
+	"longName": "Outside Site(s) Where Observation may be Performed",
+	"hl7Table": "HL79999"
+}

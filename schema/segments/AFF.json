@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "AFF.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "AFF.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "AFF.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "AFF.4",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "AFF.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

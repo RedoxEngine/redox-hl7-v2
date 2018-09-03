@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "APR.1",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "APR.2",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "APR.3",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "APR.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "APR.5",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

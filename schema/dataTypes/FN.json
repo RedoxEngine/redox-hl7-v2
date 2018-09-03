@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "dataType": "FN.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "FN.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "FN.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "FN.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "FN.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+	"dataType": "ID",
+	"longName": "Guarantor Billing Hold Flag",
+	"hl7Table": "HL70136"
+}

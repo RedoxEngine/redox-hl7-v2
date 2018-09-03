@@ -1,0 +1,77 @@
+{
+  "PSHPDC_SUPPGRP": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "PSH"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "PDC"
+      }
+    ]
+  },
+  "FACPDCNTE_SUPPGRP": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "FAC"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "PDC"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "NTE"
+      }
+    ]
+  },
+  "FACPSHPDCPSHFACPDCNTEED_SUPPGRP": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "FAC"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "PSHPDC_SUPPGRP"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "PSH"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "FACPDCNTE_SUPPGRP"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1"
+      }
+    ]
+  },
+  "SUR_P09": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "FACPSHPDCPSHFACPDCNTEED_SUPPGRP"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "OVR.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OVR.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OVR.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OVR.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "OVR.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

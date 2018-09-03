@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "DLD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "DLD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

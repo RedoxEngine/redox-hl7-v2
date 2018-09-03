@@ -1,0 +1,59 @@
+{
+  "MF_TEST_CALC_DETAIL": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "OM6"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "OM2"
+      }
+    ]
+  },
+  "MF_TEST_CALCULATED": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MFE"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "OM1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "MF_TEST_CALC_DETAIL"
+      }
+    ]
+  },
+  "MFN_M11": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MFI"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "MF_TEST_CALCULATED"
+      }
+    ]
+  }
+}

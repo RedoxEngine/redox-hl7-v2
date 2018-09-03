@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "GP1.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GP1.2",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GP1.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "GP1.4",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "GP1.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

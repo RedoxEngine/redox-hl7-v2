@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "field": "SFT.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SFT.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SFT.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SFT.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SFT.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SFT.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

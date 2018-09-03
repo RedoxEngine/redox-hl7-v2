@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "JCC.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "JCC.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "JCC.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

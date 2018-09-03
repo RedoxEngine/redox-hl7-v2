@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "ECR.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ECR.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ECR.3",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

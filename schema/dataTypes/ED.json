@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "dataType": "ED.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "ED.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "ED.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "ED.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "ED.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

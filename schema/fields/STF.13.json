@@ -1,0 +1,5 @@
+{
+	"dataType": "DIN",
+	"longName": "Institution Inactivation Date",
+	"hl7Table": "HL70537"
+}

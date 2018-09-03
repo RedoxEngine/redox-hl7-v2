@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "field": "RDF.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RDF.2",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

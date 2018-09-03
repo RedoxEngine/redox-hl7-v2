@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "WVS.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "WVS.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "MFE.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFE.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFE.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFE.4",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "MFE.5",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

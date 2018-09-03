@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "QRI.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QRI.2",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "QRI.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

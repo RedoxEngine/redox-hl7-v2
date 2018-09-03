@@ -1,0 +1,5 @@
+{
+	"dataType": "CWE",
+	"longName": "BP Dispense Status",
+	"hl7Table": "HL70510"
+}

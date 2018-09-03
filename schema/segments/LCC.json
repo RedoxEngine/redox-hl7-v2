@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "LCC.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LCC.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "LCC.3",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "LCC.4",
+      "minOccurs": "1",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "DTN.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "DTN.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

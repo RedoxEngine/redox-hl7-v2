@@ -1,0 +1,5 @@
+{
+	"dataType": "ID",
+	"longName": "Event Reported To",
+	"hl7Table": "HL70236"
+}

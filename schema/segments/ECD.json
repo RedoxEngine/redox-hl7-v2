@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "field": "ECD.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ECD.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ECD.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ECD.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "ECD.5",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

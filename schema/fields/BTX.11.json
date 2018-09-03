@@ -1,0 +1,5 @@
+{
+	"dataType": "CWE",
+	"longName": "BP Transfusion/Disposition Status",
+	"hl7Table": "HL70513"
+}

@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "AUI.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "AUI.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "AUI.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

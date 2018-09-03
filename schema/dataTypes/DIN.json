@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "DIN.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "DIN.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

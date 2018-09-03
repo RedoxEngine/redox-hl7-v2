@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "field": "QID.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "QID.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "RI.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "RI.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

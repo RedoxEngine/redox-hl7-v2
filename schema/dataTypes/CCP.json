@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "CCP.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CCP.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "CCP.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

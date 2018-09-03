@@ -1,0 +1,5 @@
+{
+	"dataType": "ID",
+	"longName": "Pharmacy Order Type",
+	"hl7Table": "HL70480"
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "field": "MSA.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MSA.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MSA.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MSA.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MSA.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MSA.6",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

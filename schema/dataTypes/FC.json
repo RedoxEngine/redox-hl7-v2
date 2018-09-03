@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "FC.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "FC.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

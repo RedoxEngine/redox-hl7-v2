@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "field": "VAR.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "VAR.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "VAR.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "VAR.4",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "VAR.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "VAR.6",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

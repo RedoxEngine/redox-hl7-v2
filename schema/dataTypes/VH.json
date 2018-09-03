@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "dataType": "VH.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "VH.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "VH.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "VH.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

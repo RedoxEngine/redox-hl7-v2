@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "SPR.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SPR.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SPR.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "SPR.4",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "dataType": "QSC.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "QSC.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "QSC.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "QSC.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

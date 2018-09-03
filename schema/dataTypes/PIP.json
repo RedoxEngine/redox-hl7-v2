@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "dataType": "PIP.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "PIP.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "PIP.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "PIP.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "PIP.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

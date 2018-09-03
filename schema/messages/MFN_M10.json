@@ -1,0 +1,59 @@
+{
+  "MF_TEST_BATT_DETAIL": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "OM5"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "OM4"
+      }
+    ]
+  },
+  "MF_TEST_BATTERIES": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MFE"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "OM1"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "1",
+        "group": "MF_TEST_BATT_DETAIL"
+      }
+    ]
+  },
+  "MFN_M10": {
+    "elements": [
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MSH"
+      },
+      {
+        "minOccurs": "0",
+        "maxOccurs": "unbounded",
+        "segment": "SFT"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "1",
+        "segment": "MFI"
+      },
+      {
+        "minOccurs": "1",
+        "maxOccurs": "unbounded",
+        "group": "MF_TEST_BATTERIES"
+      }
+    ]
+  }
+}

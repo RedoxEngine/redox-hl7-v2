@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "HD.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "HD.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "HD.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

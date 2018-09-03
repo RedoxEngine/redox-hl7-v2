@@ -1,0 +1,14 @@
+{
+  "components": [
+    {
+      "dataType": "MO.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "MO.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "field": "MFI.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFI.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFI.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFI.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFI.5",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "MFI.6",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    }
+  ]
+}

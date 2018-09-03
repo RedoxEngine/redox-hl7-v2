@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "dataType": "MOP.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "MOP.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "dataType": "MOP.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

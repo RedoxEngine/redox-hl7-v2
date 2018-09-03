@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "field": "RMI.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RMI.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "RMI.3",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

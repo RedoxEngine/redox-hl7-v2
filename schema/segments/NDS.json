@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "NDS.1",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "NDS.2",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "NDS.3",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "NDS.4",
+      "minOccurs": "1",
+      "maxOccurs": "1"
+    }
+  ]
+}

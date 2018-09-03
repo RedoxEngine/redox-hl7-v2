@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "field": "NTE.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "NTE.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "NTE.3",
+      "minOccurs": "0",
+      "maxOccurs": "unbounded"
+    },
+    {
+      "field": "NTE.4",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}

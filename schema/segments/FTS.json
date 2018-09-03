@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "field": "FTS.1",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    },
+    {
+      "field": "FTS.2",
+      "minOccurs": "0",
+      "maxOccurs": "1"
+    }
+  ]
+}
