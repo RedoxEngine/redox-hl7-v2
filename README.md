@@ -12,7 +12,7 @@ When messages don't match the schema, the module supports a custom schema. See C
 ## Parser
 ```
 const rawData = `MSH|^~\&|||...`;
-const hl7v2 = require('node-hl7-v2');
+const hl7v2 = require('@redoxengine/redox-hl7-v2');
 const parser = new hl7v2.Parser();
 const jsonData = parser.parse(rawData);
 ```
@@ -55,7 +55,7 @@ const ackJSON = {
   }
 };
 
-const hl7v2 = require('node-hl7-v2');
+const hl7v2 = require('@redoxengine/redox-hl7-v2');
 const generator = new HL7v2.Generator();
 const data = generator.write(ackJSON);
 //`MSH|^~\\&|CHERDABEE||REDOX|RDX|20150915004731||ACK^S12|20150915004731|T|2.3|||||||||\rMSA|AA|1||||\r`
