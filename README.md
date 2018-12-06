@@ -1,6 +1,8 @@
 # node-hl7-v2
 This is [Redox's](https://www.redoxengine.com/?utm_source=github&utm_medium=githublink&utm_campaign=open%20source) battle-tested in-house HL7v2 parser/generator. 
 
+[![slack](http://community.redoxengine.com/badge.svg)](http://community.redoxengine.com)
+
 # HL7 Version 2 (HL7v2) 
 [HL7’s Version 2.x (V2) Messaging Standard](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) 
 is the most ubiquitous healthcare data exchange standard. This module converts HL7v2 messages to and from a JSON representation.
