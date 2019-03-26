@@ -1,6 +1,8 @@
 # node-hl7-v2
 This is [Redox's](https://www.redoxengine.com/?utm_source=github&utm_medium=githublink&utm_campaign=open%20source) battle-tested in-house HL7v2 parser/generator. 
 
+The [online HL7v2 Parser](https://developer.redoxengine.com/hl7v2-tool/) can give you a sense of what it's capable of. 
+
 Join us in public Slack channel to chat about this project: 
 
 [![slack](http://community.redoxengine.com/badge.svg)](http://community.redoxengine.com)
