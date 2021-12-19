@@ -67,7 +67,8 @@
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "ROL"
+        "segment": "ROL",
+        "jsonKey": "ROL_1"
       },
       {
         "minOccurs": "0",
@@ -92,7 +93,8 @@
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "ROL"
+        "segment": "ROL",
+        "jsonKey": "ROL_2"
       },
       {
         "minOccurs": "0",

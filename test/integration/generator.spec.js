@@ -423,7 +423,7 @@ describe('Generate an hl7 message', function() {
           }
         ]
       },
-      ROL: [
+      ROL_1: [
         {
           '1': { '1': '1' },
           '2': 'UP',
@@ -571,7 +571,104 @@ describe('Generate an hl7 message', function() {
         '44': { '1': '20181228101200' },
         '47': '16429.19'
       },
-      PV2: { '9': { '1': '20181231' }, '10': '3' }
+      PV2: { '9': { '1': '20181231' }, '10': '3' },
+      ROL_2: [
+        {
+          '1': { '1': '2' },
+          '2': 'UP',
+          '3': { '1': 'NP' },
+          '4': [
+            {
+              '1': '1255688719',
+              '2': { '1': 'NGUY' },
+              '3': 'SCOTT',
+              '4': '',
+              '5': '',
+              '6': '',
+              '7': '',
+              '8': '',
+              '9': { '1': 'EPIC' },
+              '10': '',
+              '11': '',
+              '12': '',
+              '13': 'PNPI'
+            },
+            {
+              '1': '54004',
+              '2': { '1': 'NGUY' },
+              '3': 'SCOTT',
+              '4': '',
+              '5': '',
+              '6': '',
+              '7': '',
+              '8': '',
+              '9': { '1': 'OR STAR SER' },
+              '10': '',
+              '11': '',
+              '12': '',
+              '13': 'OR STAR SER'
+            },
+            {
+              '1': '1204658',
+              '2': { '1': 'NGUY' },
+              '3': 'SCOTT',
+              '4': '',
+              '5': '',
+              '6': '',
+              '7': '',
+              '8': '',
+              '9': { '1': 'PROVPID' },
+              '10': '',
+              '11': '',
+              '12': '',
+              '13': 'PPID'
+            }
+          ],
+          '5': { '1': '20191001102337' },
+          '11': [
+            {
+              '1': { '1': '15640 NW LAIDLAW RD, STE 102' },
+              '2': '',
+              '3': 'PORTLAND',
+              '4': '',
+              '5': '',
+              '6': 'USA'
+            }
+          ],
+          '12': [
+            {
+              '1': '(503)764-0100',
+              '2': '',
+              '3': 'W',
+              '4': '',
+              '5': '',
+              '6': '503',
+              '7': '7640100'
+            },
+            {
+              '1': '(503)536-4260',
+              '2': '',
+              '3': 'FAX',
+              '4': '',
+              '5': '',
+              '6': '503',
+              '7': '5364260'
+            }
+          ]
+        }
+      ],
+      DG1: [
+        {
+          '2': 'AB',
+          '3': {
+            '1': 'Z34.93',
+            '2': 'Encounter for supervision of normal pregnancy, unspecified, third trimester',
+            '3': 'ABF'
+          },
+          '4': 'Encounter for supervision of normal pregnancy, unspecified, third trimester',
+          '6': '^1'
+        }
+      ]
     };
 
     const hl7 = generator.write(json);
@@ -584,9 +681,12 @@ describe('Generate an hl7 message', function() {
     const header = hl7.match(/MSH\|\^~\\&\|EPIC\|AcmeHeath\|\|\|20190131140825/g);
     expect(header.length).to.equal(1);
 
-    // A global search for the beginning of the ROL segment turns up two occurrences.
-    // However, there is only one instance of an ROL segment in the source json.
-    const rol = hl7.match(/ROL\|1\|UP\|GENERAL\|1194750331\^ROSENBERG\^DANIEL/g);
-    expect(rol.length).to.equal(1);
+    // A global search for the beginning of the first ROL segment
+    const rol1 = hl7.match(/ROL\|1\|UP\|GENERAL\|1194750331\^ROSENBERG\^DANIEL/g);
+    expect(rol1.length).to.equal(1);
+
+    // A global search for the beginning of the second ROL segment
+    const rol2 = hl7.match(/ROL\|2\|UP\|NP\|1255688719\^NGUY\^SCOTT/g);
+    expect(rol2.length).to.equal(1);
   });
 });

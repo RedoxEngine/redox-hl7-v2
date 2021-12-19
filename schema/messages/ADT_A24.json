@@ -19,42 +19,50 @@
       {
         "minOccurs": "1",
         "maxOccurs": "1",
-        "segment": "PID"
+        "segment": "PID",
+        "jsonKey": "PID_1"
       },
       {
         "minOccurs": "0",
         "maxOccurs": "1",
-        "segment": "PD1"
+        "segment": "PD1",
+        "jsonKey": "PD1_1"
       },
       {
         "minOccurs": "0",
         "maxOccurs": "1",
-        "segment": "PV1"
+        "segment": "PV1",
+        "jsonKey": "PV1_1"
       },
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "DB1"
+        "segment": "DB1",
+        "jsonKey": "DB1_1"
       },
       {
         "minOccurs": "1",
         "maxOccurs": "1",
-        "segment": "PID"
+        "segment": "PID",
+        "jsonKey": "PID_2"
       },
       {
         "minOccurs": "0",
         "maxOccurs": "1",
-        "segment": "PD1"
+        "segment": "PD1",
+        "jsonKey": "PD1_2"
       },
       {
         "minOccurs": "0",
         "maxOccurs": "1",
-        "segment": "PV1"
+        "segment": "PV1",
+        "jsonKey": "PV1_2"
       },
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "DB1"
+        "segment": "DB1",
+        "jsonKey": "DB1_2"
       }
     ]
   }
