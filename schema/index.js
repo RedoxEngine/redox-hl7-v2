@@ -8,7 +8,7 @@ var schema = module.exports = {
   structure: require('./structure/index.json'),
 
   overrideSchema: function(base, override){
-    return _.merge({}, base, override, function (a, b) {
+    return _.mergeWith({}, base, override, function (a, b) {
       // The default behavior for lodash _.merge and arrays is to take all of b,
       // then append anything in a with a higher index than b.length.
       // This means we can never override a with a shorter array.
