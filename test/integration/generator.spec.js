@@ -674,8 +674,8 @@ describe('Generate an hl7 message', function() {
     const hl7 = generator.write(json);
 
     // For debug purposes, print out the full hl7.
-    console.log('Generated HL7');
-    console.log(hl7.replace(/\r/g, '\n'));
+    // console.log('Generated HL7');
+    // console.log(hl7.replace(/\r/g, '\n'));
 
     // A global search for the start of the message only turns up one occurrence.
     const header = hl7.match(/MSH\|\^~\\&\|EPIC\|AcmeHeath\|\|\|20190131140825/g);

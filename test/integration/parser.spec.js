@@ -356,22 +356,22 @@ describe('Parse an hl7 message', function() {
     retAsString = JSON.stringify(ret, null, 2);
 
     // For debug purposes, print out the full json.
-    console.log('Parsed Json');
-    console.log(retAsString);
+    // console.log('Parsed Json');
+    // console.log(retAsString);
 
     expect(retAsString, 
       'Expected output JSON to include the last name "ROSENBERG" which only' +
       ' appears in the ROL after PD1'
     ).to.include('ROSENBERG');
 
-    // This causes the test to fail. The data from the second ROL is not in the output json.
+    // This previously caused the test to fail. The data from the second ROL was not in the output json.
     expect(retAsString, 
       'Expected output JSON to include the last name "NGUY" which only appears' +
       ' in the ROL after PV2'
     ).to.include('NGUY');
 
-    // Alternatively, this will also cause the test to fail. Any segments that occur after the
-    // second ROL also get omitted.
+    // Alternatively, this would also have caused the test to fail. Any segments that occur after the
+    // second ROL also would get omitted.
     expect(retAsString, 
       'Expected output JSON to include the last name "Encounter for supervision' +
       ' of normal pregnancy" which only appears in the DG1 after second ROL'
