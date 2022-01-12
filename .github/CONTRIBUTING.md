@@ -1,7 +1,7 @@
 # Contributing to Redox
 
 Contributions are always welcome. Before contributing please read the
-[code of conduct](https://js.foundation/community/code-of-conduct). To contribute,
+[code of conduct](https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md). To contribute,
 [fork](https://help.github.com/articles/fork-a-repo/) the repository, commit your changes,
 & [send a pull request](https://help.github.com/articles/using-pull-requests/).
 
