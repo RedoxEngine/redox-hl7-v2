@@ -1,6 +1,6 @@
 {
   "name": "@redoxengine/redox-hl7-v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A parser for hl7 version 2 messages. Creates json from v2 messages, and creates v2 messages from json.",
   "main": "index.js",
   "directories": {
