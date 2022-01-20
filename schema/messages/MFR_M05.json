@@ -14,7 +14,8 @@
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "LCH"
+        "segment": "LCH",
+        "jsonKey": "LCH_1"
       },
       {
         "minOccurs": "0",
@@ -29,7 +30,8 @@
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "LCH"
+        "segment": "LCH",
+        "jsonKey": "LCH_2"
       },
       {
         "minOccurs": "0",

@@ -9,7 +9,8 @@
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "NTE"
+        "segment": "NTE",
+        "jsonKey": "NTE_1"
       },
       {
         "minOccurs": "0",
@@ -19,7 +20,8 @@
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "NTE"
+        "segment": "NTE",
+        "jsonKey": "NTE_2"
       },
       {
         "minOccurs": "0",
@@ -29,7 +31,8 @@
       {
         "minOccurs": "0",
         "maxOccurs": "unbounded",
-        "segment": "NTE"
+        "segment": "NTE",
+        "jsonKey": "NTE_3"
       }
     ]
   },

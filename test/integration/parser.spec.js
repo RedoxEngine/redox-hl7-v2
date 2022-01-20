@@ -331,4 +331,50 @@ describe('Parse an hl7 message', function() {
 
     expect(json).to.eql(expected);
   });
+
+  /**
+   * Helper js template string tag function to clean whitespace.
+   */
+   function cleanHl7Sample(strings) {
+    return strings.join('').trim().replace(/\n\s+/g, '\r');
+  }
+
+  it('should handle the same segment in different places in the same parent group', function () {
+    hl7 = cleanHl7Sample`
+      MSH|^~\\&|EPIC|AcmeHeath|||20190131140825|JFARNHAM|ADT^A13|17715|T|2.3
+      EVN|A13|20190131140825||ADT|JFARNHAM^FARNHAM^JACOB^^^^^^SW^^^^^RRCE|20181231110700
+      PID|||740001776^^^AMRN^AMRN~1003132339^^^EID^EID||OPTIMEOBTEST^WAHH||19881228|F|||111 TEST ST^^TEMPLE^TX^76501^USA^P^^BELL|BELL|(254)555-5555^P^PH^^^254^5555555~^NET^Internet^devpatient.male@example.io
+      PD1|||Acme Health^^1034001|130991^CHANG^SARAH^ANNE^^^^^EPIC^^^^PROVID
+      ROL|1|UP|GENERAL|1194750331^ROSENBERG^DANIEL^^^^^^EPIC^^^^PNPI~20255^ROSENBERG^DANIEL^^^^^^OR STAR SER^^^^OR STAR SER~1188^ROSENBERG^DANIEL^^^^^^CL CENT SER^^^^CL CENT SER~1000220^ROSENBERG^DANIEL^^^^^^PROVPID^^^^PPID|20190925||||GENERAL||1321 NE 99TH AVE. STE 200^^PORTLAND^OR^97220^|(503)215-4250^^W^^^503^2154250
+      PV1||INPATIENT|WHHPP^2101^01^TEH^R^^^^^^DEPID|EL|||01164^BEAIRD^MARK^ALAN^^^^^EPIC^^^^PROVID|||Obstetrics||||Phys/Clinic|||01164^BEAIRD^MARK^ALAN^^^^^EPIC^^^^PROVID||90000000083|||||||||||||||||||||||||20181228101200|||16429.19
+      PV2|||||||||20181231|3
+      ROL|2|UP|NP|1255688719^NGUY^SCOTT^^^^^^EPIC^^^^PNPI~54004^NGUY^SCOTT^^^^^^OR STAR SER^^^^OR STAR SER~1204658^NGUY^SCOTT^^^^^^PROVPID^^^^PPID|20191001102337||||||15640 NW LAIDLAW RD, STE 102^^PORTLAND^^^USA|(503)764-0100^^W^^^503^7640100~(503)536-4260^^FAX^^^503^5364260
+      DG1||AB|Z34.93^Encounter for supervision of normal pregnancy, unspecified, third trimester^ABF|Encounter for supervision of normal pregnancy, unspecified, third trimester||^1
+    `;
+    ret = parser.parse(hl7);
+
+    retAsString = JSON.stringify(ret, null, 2);
+
+    // For debug purposes, print out the full json.
+    // console.log('Parsed Json');
+    // console.log(retAsString);
+
+    expect(retAsString, 
+      'Expected output JSON to include the last name "ROSENBERG" which only' +
+      ' appears in the ROL after PD1'
+    ).to.include('ROSENBERG');
+
+    // This previously caused the test to fail. The data from the second ROL was not in the output json.
+    expect(retAsString, 
+      'Expected output JSON to include the last name "NGUY" which only appears' +
+      ' in the ROL after PV2'
+    ).to.include('NGUY');
+
+    // Alternatively, this would also have caused the test to fail. Any segments that occur after the
+    // second ROL also would get omitted.
+    expect(retAsString, 
+      'Expected output JSON to include the last name "Encounter for supervision' +
+      ' of normal pregnancy" which only appears in the DG1 after second ROL'
+    ).to.include('Encounter for supervision of normal pregnancy');
+  })
 });
