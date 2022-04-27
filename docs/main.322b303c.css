@@ -10048,5 +10048,6 @@ template {
 }
 
 #root {
-  margin-top: 40px;
+  position: absolute;
+  bottom: 0px;
 }
