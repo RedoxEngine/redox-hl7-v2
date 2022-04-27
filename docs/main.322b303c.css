@@ -15,10 +15,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, Icons16, sans-serif;
   font-size: 14px;
   font-weight: 400;
-  color: #182026;
-  margin: 20px;
-  padding: 20px;
-   
+  color: #182026;   
 }
 
 p {
@@ -9817,7 +9814,8 @@ html {
 }
 
 body {
-  margin: 0
+  margin: 20px;
+  padding: 20px;
 }
 
 h1 {
@@ -10047,4 +10045,8 @@ template {
 
 .hl7tool_viewer__1Dwt {
   overflow: scroll
+}
+
+#root {
+  margin-top: 40px;
 }
