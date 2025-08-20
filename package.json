@@ -1,5 +1,5 @@
 {
-  "name": "@redoxengine/redox-hl7-v2",
+  "name": "@redox-opensource/redox-hl7-v2",
   "version": "2.0.0",
   "description": "A parser for hl7 version 2 messages. Creates json from v2 messages, and creates v2 messages from json.",
   "main": "index.js",
